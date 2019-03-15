@@ -8,4 +8,9 @@ public class Test {
 
     int s;
     int qwe;
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
